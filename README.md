@@ -1,0 +1,1 @@
+This project will be my first html project, while following the Odin course on the fundamentals of web design. Once I have completed this project I will be able to show that I have a complex understanding of html and how it works. 
